@@ -1,6 +1,6 @@
 <?php 
 
-include("con_db.php");
+include("con_db.html");
 
 if (isset($_POST['register'])) {
     if (strlen($_POST['name']) >= 1 && strlen($_POST['email']) >= 1 && strlen ($_POST['pass']) >= 1) {
