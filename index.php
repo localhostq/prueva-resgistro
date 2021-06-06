@@ -41,7 +41,7 @@
      </div>
     </form>
     <?php 
-        include("registrar.php");
+        include("registrar.html");
         ?>
 </body>
 
