@@ -1,2 +1,0 @@
-# prueva-resgistro
-regisstro
